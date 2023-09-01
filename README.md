@@ -17,7 +17,7 @@ I am a senior-year undergraduate at IIT Patna who loves programming, speaking, t
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: abhishekcheekati@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1oyaR3cWHMBIqPvV9rHP99vAC1mNgK9vb/view?usp=drive_link).
-- 👨🏻‍💻 [Portfolio](abhishekcheekati-portfolio.netlify.app).
+- 👨🏻‍💻 [Portfolio](https://abhishekcheekati-portfolio.netlify.app/).
 
 <br>
 <br>
