@@ -29,7 +29,7 @@ I am a senior-year undergraduate at IIT Patna who loves programming, speaking, t
 
 
 <a href="https://www.linkedin.com/in/abhishek-cheekati-b90421227/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sagnikmitra" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/knight_IITP" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sagnikmitra" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Frost_Dragon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sagnikmitra" height="30" width="40" /></a>
 <a href="https://leetcode.com/knight__IITP/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.5sfi252DgFWnuwUNHhwlXwAAAA?w=144&h=150&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="sagnikmitra" height="30" width="40" /></a>
 </p>
 
